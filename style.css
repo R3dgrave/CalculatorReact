@@ -5,7 +5,7 @@
 }
 
 .contenedor {
-    background-image: url("../../img/pattern_black.png");
+    background-image: url("pattern_black.png");
     background-repeat: repeat;
     height: 100vh;
     display: flex;
