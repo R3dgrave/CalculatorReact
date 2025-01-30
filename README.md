@@ -1,8 +1,35 @@
-# React + Vite
+# **CALCULADORA EN REACT**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una calculadora interactiva creada con React y Tailwind CSS, con soporte para entrada por teclado y validaciones básicas.
 
-Currently, two official plugins are available:
+## 🚀 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interfaz con Tailwind CSS
+
+- Soporte para entrada desde teclado.
+
+- Validaciones para evitar errores de entrada.
+
+- Operaciones básicas: suma (+), resta (-), multiplicación (*), división (/).
+
+- Botón para limpiar la pantalla (C).- 
+
+- Diseño responsivo.- 
+
+## 🛠️ Tecnologías Usadas
+
+- React 17+
+
+- Tailwind CSS
+
+## 🎮 Uso
+
+- Puedes hacer clic en los botones o usar el teclado para ingresar números y operadores.
+
+- Presiona Enter o el botón = para calcular.
+
+- Usa Backspace para borrar un número.
+
+- Presiona C para limpiar la pantalla.
+
+~~📌 Desarrollado por R3dgrave 🚀~~
